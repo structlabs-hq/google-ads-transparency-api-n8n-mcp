@@ -1,0 +1,47 @@
+[
+  {
+    "query": "nike.com",
+    "advertiser_id": "AR16735076323512287233",
+    "advertiser_name": "Nike, Inc.",
+    "advertiser_total_ads": 2,
+    "creative_id": "CR18266859753747513345",
+    "format": "image",
+    "first_shown_at": "2026-11-22T08:00:59+00:00",
+    "last_shown_at": "2026-11-23T10:08:09+00:00",
+    "landing_domain": "nike.com",
+    "preview_image_url": "https://tpc.googlesyndication.com/archive/simgad/10022120879025303363",
+    "ad_url": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR18266859753747513345",
+    "region": "US",
+    "scraped_at": "2026-11-23T10:54:39.762355+00:00"
+  },
+  {
+    "query": "nike.com",
+    "advertiser_id": "AR11761899933030940673",
+    "advertiser_name": "Simile AI, Inc.",
+    "advertiser_total_ads": 2,
+    "creative_id": "CR03910510041597214721",
+    "format": "image",
+    "first_shown_at": "2026-11-22T08:01:49+00:00",
+    "last_shown_at": "2026-11-23T10:06:14+00:00",
+    "landing_domain": "nike.com",
+    "preview_image_url": null,
+    "ad_url": "https://adstransparency.google.com/advertiser/AR11761899933030940673/creative/CR03910510041597214721",
+    "region": "US",
+    "scraped_at": "2026-11-23T10:54:39.762355+00:00"
+  },
+  {
+    "query": "nike.com",
+    "advertiser_id": "AR16735076323512287233",
+    "advertiser_name": "Nike, Inc.",
+    "advertiser_total_ads": 2,
+    "creative_id": "CR00374058434204532737",
+    "format": "image",
+    "first_shown_at": "2026-11-22T08:03:19+00:00",
+    "last_shown_at": "2026-11-23T10:04:27+00:00",
+    "landing_domain": "nike.com",
+    "preview_image_url": null,
+    "ad_url": "https://adstransparency.google.com/advertiser/AR16735076323512287233/creative/CR00374058434204532737",
+    "region": "US",
+    "scraped_at": "2026-11-23T10:54:39.762355+00:00"
+  }
+]
