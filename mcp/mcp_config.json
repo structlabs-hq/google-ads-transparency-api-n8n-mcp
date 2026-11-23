@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "apify-google-ads-transparency-api": {
+      "url": "https://mcp.apify.com/?actors=structlabs/google-ads-transparency-api"
+    }
+  }
+}
